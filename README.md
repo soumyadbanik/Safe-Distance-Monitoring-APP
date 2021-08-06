@@ -3,10 +3,10 @@ An web app for monitoring safe distance on [Stanford Drone Dataset](https://cvgl
 Deployed using Flask API.
 
 # To-DOs
--[ ] Train on Darknet yolov4 with larger dataset.
--[ X ] Comparative study with other state-of-the-art object detectors.
--[ ] Apply DeepSORT for multi object tracking.
--[ X ] To make compatible for edge devices like IOT and mobile devices (Need to train with yolo-v4 tiny model).
--[ X ] Increase fps (to make realtime).
--[ ] Deploy using Flask API.
--[ X ] Host on cloud.
+- [X] Train on Darknet yolov4 with larger dataset.
+- [X] Apply DeepSORT for multi object tracking.
+- [X] Deploy using Flask API.
+- [ ] Comparative study with other state-of-the-art object detectors.
+- [ ] To make compatible for edge devices like IOT and mobile devices (Need to train with yolo-v4 tiny model).
+- [ ] Increase fps (to make realtime).
+- [ ] Host on cloud.
